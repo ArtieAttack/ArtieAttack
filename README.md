@@ -3,7 +3,7 @@
 ### Curso atualmente meu 4º período de Engenharia de Computação!
 #### Tenho 20 anos, iniciei o interesse a tecnologia, jogos e web quando mais novo e atualmente estou aprimorando meus conhecimentos, afim de desfrutar de um jovem sonho! Iniciei na programação com *Linguagem JavaScript* e *C*, acabei me divertindo programando nessas duas linguagens e atualmente estou aprendendo um pouco mais sobre JavaScript e pretendo aprender sobre *Python*, sempre explorando novas áreas e linguagens de programação.
 
-#### Posso dizer que ainda sou leigo sobre programar, mas tenho vontade de me tornar mais ativo programando. Tudo que eu sei, diria ser básico, mas é sempre bom começar de algum lugar! Sigo repetindo esse dilema todos os dias:
+#### Posso dizer que ainda sou leigo sobre programar, mas tenho vontade de me tornar mais ativo programando. Tudo que eu sei, diria ser básico, mas é sempre bom começar de algum lugar!
 
 #### 🌊 *Vá em frente com o que seu coração lhe diz, ou você vai perder tudo!*
 
